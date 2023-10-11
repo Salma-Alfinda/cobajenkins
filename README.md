@@ -1,5 +1,5 @@
 # Belajar Spring Dasar
 
-by Salma Alfinda
+by Salma-Alfinda
 
-# Trigger Poll SCM Jenkins
+# Trigger Poll SCM
